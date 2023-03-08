@@ -1,4 +1,4 @@
-## BOOTCAMP INTER ORANGE TECH + FRONT-END - DIO._(Digital Innovation One)
+DESAFIO JAVASCRIPT DE FRONT-END - DIO._(Digital Innovation One)
 
 ![Screenshot](./assets/images/pokeapi_256.png)
 
